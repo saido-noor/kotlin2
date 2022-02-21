@@ -32,4 +32,8 @@ fun printFact(fact:String){
     println("I love $fact")
 }
 
+fun printFact(fact:String){
+    println("I love $fact")
+}
+
 
